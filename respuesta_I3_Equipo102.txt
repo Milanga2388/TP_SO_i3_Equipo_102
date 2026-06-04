@@ -1,3 +1,14 @@
+a-¿Cómo queda el máster después de estos cambios?
+Queda con todos los archivos de cada rama 
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, puede ver todos los cambios de cada rama y dentro del main 
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+-Ingresar al main mediante el git switch
+-Usar el comando git merge (nombre de la rama) para poder combinar el main con la rama ya dicha
+-Y por ultimo usar el push para que se suba a github
+
 d-
 Sí. despues de realizar el merge correctamente y resolver los conflictos, las ramas pueden quedar actualizadas con los cambios incorporados desde las demás ramas y el repositorio remoto.
 
