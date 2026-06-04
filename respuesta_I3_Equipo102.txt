@@ -1,1 +1,15 @@
+d-
+Sí. despues de realizar el merge correctamente y resolver los conflictos, las ramas pueden quedar actualizadas con los cambios incorporados desde las demás ramas y el repositorio remoto.
+
+e-
+Durante el merge se produjo un conflicto en el archivo datos.txt, ya que distintos integrantes modificamos el mismo archivo. Git no pudo decidir automáticamente qué cambios conservar y fue necesario resolver el conflicto manualmente editando el archivo, eliminando las marcas de conflicto, seleccionando el contenido correcto y despues completando el merge mediante un commit.
+
+f-
+git pull origin Galiano
+git checkout Galiano
+git add beta.txt
+git commit -m "Modifico beta.txt"
+git push origin Galiano
+git status
+
 
