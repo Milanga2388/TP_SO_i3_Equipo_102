@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Leonardo Galiano
 192.168.100.237
 11:16
+=======
+Ignacio Puntillo
+181.87.120.210
+11.27 am
+>>>>>>> f9d8f7bdb26c6da7874243d84cb60f5ffbe4e0fa
