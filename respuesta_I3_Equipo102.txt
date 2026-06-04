@@ -23,4 +23,11 @@ git commit -m "Modifico beta.txt"
 git push origin Galiano
 git status
 
-
+g-
+git switch main
+git pull
+git switch Delvigo
+git status (por las dudas)
+git add .
+git commit -m "[comentario]"
+git push --set-upstream origin Delvigo
